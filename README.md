@@ -1,6 +1,6 @@
 # Lógica de Programação <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Python-logo.png" width="10%" height="10%" align="right" valign="center"/> 
 Projeto realizado na disciplina de Lógica de Programação do curso de Análise e Desenvolvimento de Sistemas, em linguagem Python, utilizando a IDE PyCharm.
-## Enunciado: 
+## Enunciado: <img src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-PyCharm.png" width="10%" height="10%" align="right" valign="center"/> 
 Você e sua equipe de programadores foram contratados para desenvolver um app de vendas para uma lanchonete. Você ficou com a parte de desenvolver a interface do cliente para retirada do produto.
 A lanchonete possui seguinte tabela de produtos listados com sua descrição, códigos e valores:
 ### Código x	Descrição	x Valor(R$)
